@@ -10,3 +10,4 @@ git add "dir" = sync to git
 git add * = sync all
 git commit -m "commit" = adiciona comentario
 git push = upload to github
+git remove = remove arquivo digitado
